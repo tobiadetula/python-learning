@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "f501ade8aa4b39a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "abb8a8ec3d5b3e6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f609ba2f3c37dcc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1c107f9d6005d42",
+    "type": "split",
+    "children": [
+      {
+        "id": "0773a4c411321a38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ddbdd9e002c09fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60d5c4bfc6293a7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8da4ef45d842f5a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6c3462d0e717a1a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cd4d7a4e1c71daed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb6d910b53b234f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89c90e704ad7c77f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7ebe820f85d45db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4177a864b5f7c51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2dcc1c5eccc8cce0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "95d55c99dbfab68c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f609ba2f3c37dcc4",
+  "lastOpenFiles": [
+    "cs50/venv/bin/activate",
+    "cs50/venv/bin/Activate.ps1",
+    "cs50/venv/bin/activate.csh",
+    "cs50/venv/bin/activate.fish",
+    "cs50/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/REQUESTED",
+    "cs50/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/INSTALLER",
+    "cs50/venv/bin/pip3.11",
+    "cs50/venv/bin/pip3",
+    "cs50/venv/bin/pip",
+    "cs50/venv/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-311.pyc",
+    "cs50/venv/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-311.pyc",
+    "cs50/week1/Code Documentation.md",
+    "cs50/week1/README.md",
+    "README.md"
+  ]
+}

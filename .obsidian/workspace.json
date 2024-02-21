@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abb8a8ec3d5b3e6f",
+        "id": "993de792c9d83169",
         "type": "tabs",
         "children": [
           {
-            "id": "f609ba2f3c37dcc4",
+            "id": "b83ab4ca9a07b654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "cs50/week1/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "cs50/week1/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "cs50/week1/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "cs50/week1/README.md"
               }
             }
           },
@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,8 +166,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f609ba2f3c37dcc4",
+  "active": "b83ab4ca9a07b654",
   "lastOpenFiles": [
+    "docs.python.org.md",
+    "cs50/week1/README.md",
+    "CS50P.md",
+    "README.md",
     "cs50/venv/bin/activate",
     "cs50/venv/bin/Activate.ps1",
     "cs50/venv/bin/activate.csh",
@@ -177,9 +182,6 @@
     "cs50/venv/bin/pip3",
     "cs50/venv/bin/pip",
     "cs50/venv/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-311.pyc",
-    "cs50/venv/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/tests.cpython-311.pyc",
-    "cs50/week1/Code Documentation.md",
-    "cs50/week1/README.md",
-    "README.md"
+    "cs50/week1/Code Documentation.md"
   ]
 }

@@ -195,7 +195,25 @@ NameError: name 'name' is not defined
 ```
 
 #### [[return.py]] section
-24.  Return Value
+24.  Return Value 
+```python 
+# return the square of the n value
+def square(n):
+	return n * n
+```
+25. Power of a Number 
+```python
+# return the square of the n value
+
+def square(n):
+
+	return n * n
+	# Alternate square of a number definition
+	return n ** 2
+	# Alternate power of a number definition
+	return pow(n,2)
+```
+26. 
 
 ### Video Links
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)

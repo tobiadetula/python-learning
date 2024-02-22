@@ -4,6 +4,7 @@
 1. [[hello.py]] - to ask a user for their name
 2. [[calculator.py]] - demonstrating type conversions and mathematical functions
 3. [[function.py]] - to use a function to print hello
+4. [[return.py]] - to use a return function for calculation 
 
 ### Learning Achievements
 
@@ -186,8 +187,15 @@ def hello(to="world"):
 # Calls the main function
 main()
 # Script does not run unless the function is called 
+"""
+    print(f"hello, {name}")
+                    ^^^^
+NameError: name 'name' is not defined
+"""
 ```
-24. 
+
+#### [[return.py]] section
+24.  Return Value
 
 ### Video Links
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)

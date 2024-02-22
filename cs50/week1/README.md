@@ -109,7 +109,28 @@ x = int(input("What's x? "))
 # input returns a string 
 # int takes the return value of input and converts it to an integer
 ```
-15. 
+15. Type Conversion
+```python 
+x = int() # convert to integer 
+x = float() # convert to float 
+```
+16.  Variable Rounding 
+```python 
+# round(value, number of decimal places)
+z = round(x + y, 2)
+```
+17.  Value Separator
+```python 
+# Outputs sum of x and y, Ex: 20 + 980 = 1,000 with seperator
+# format string required 
+print(f"{z:,}")
+```
+18.  Alternate fstring rounding method 
+```python
+# Outputs z with float values rounded to 2 decimal places, alternate of round function()
+print(f"{z:.2f}")
+```
+19. 
 
 ### Video Links
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)

@@ -53,10 +53,53 @@ print(*objects, sep=' ', end='\n', file=None, flush=False)
 #'\n' - new line escape sequence
 ```
 
+7.  Overriding Print Default Value
+```python 
+print("hello, ", end="")
+# Print specified to work without new line character
+```
+
+8. Positional and Named Parameters
+```python 
+print("hello, ", world, end = "")
+# world - postional parameters
+# end - named parameters
+```
+9.  Using backslash escape character
+```python 
+print("hello, \'world\'")
+# prints - hello, 'world'. to terminal 
+# escape character use - \'
+```
+10.  Using format strings 
+```python
+name = "David"
+print(f"hello, {name}")
+# prints - hello, David
+```
+
+11.  Builtin Type Options
+```python 
+# Removes whitespace from string 
+name.strip()
+# Capitalze the first letter of a string 
+name.capitalize()
+# Capitalize the first letter of a string after a whitespace character 
+name.title()
+```
+	
+12.  Concatenating Functions 
+```python 
+# Remove Whitespace and Capitalize 
+name = name.strip().title()
+```
+13. 
+14. 
 
 
 ### Video Links
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)
 - [Python Docs](https://docs.python.org)
+- [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)
 - 
 

@@ -12,9 +12,11 @@ name = name.strip()
 # name = name.capitalize() # only name before whitespace
 name = name.title()
 
+# Split user's name into first name and last name 
+first , last = name.split(" ")
 
 # Print user name to terminal after storing in variable name 
-print("Hello,",name) # Print a String to Terminal
+print("Hello,",first) # Print a String to Terminal
 
 # Add a seperate section asking for last name and demonstrating print function override
 # Then remove whitespace from title
@@ -25,6 +27,6 @@ title = input("and your title ").strip().capitalize()
 # title = title.capitalize() 
 
 # Print function overrides using named Parameters
-print("Nice to meet you, ",title,end =". ")
-print(name)
+print("You may now proceed, ",title,end =". ")
+print(last)
 

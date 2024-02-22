@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs50/week1/README.md",
+                "file": "cs50/week1/WEEK 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs50/week1/README.md",
+                "file": "cs50/week1/WEEK 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs50/week1/README.md",
+                "file": "cs50/week1/WEEK 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs50/week1/README.md"
+                "file": "cs50/week1/WEEK 1.md"
               }
             }
           },
@@ -168,21 +168,20 @@
   },
   "active": "b83ab4ca9a07b654",
   "lastOpenFiles": [
-    "cs50/week1/calculator.py",
-    "README.md",
-    "cs50/week1/README.md",
-    "docs.python.org.md",
     "CS50P.md",
+    "README.md",
+    "cs50/week1/WEEK 1.md",
+    "cs50/week1/function.py",
+    "cs50/week1/hellofunction.py",
+    "cs50/week1/helloFunction.py",
+    "cs50/week1/calculator.py",
+    "docs.python.org.md",
     "cs50/venv/bin/activate",
     "cs50/venv/bin/Activate.ps1",
     "cs50/venv/bin/activate.csh",
     "cs50/venv/bin/activate.fish",
     "cs50/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/REQUESTED",
     "cs50/venv/lib/python3.11/site-packages/pip-22.3.1.dist-info/INSTALLER",
-    "cs50/venv/bin/pip3.11",
-    "cs50/venv/bin/pip3",
-    "cs50/venv/bin/pip",
-    "cs50/venv/lib/python3.11/site-packages/pip/_vendor/webencodings/__pycache__/x_user_defined.cpython-311.pyc",
     "cs50/week1/Code Documentation.md"
   ]
 }

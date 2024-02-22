@@ -1,8 +1,9 @@
-#week1 #python 
+#week1 #python #cs50p
 ## Python File List
 
 1. [[hello.py]] - to ask a user for their name
 2. [[calculator.py]] - demonstrating type conversions and mathematical functions
+3. [[function.py]] - to use a function to print hello
 
 ### Learning Achievements
 
@@ -130,7 +131,63 @@ print(f"{z:,}")
 # Outputs z with float values rounded to 2 decimal places, alternate of round function()
 print(f"{z:.2f}")
 ```
-19. 
+
+#### [[function.py]] section
+19.  Function  Definition 
+```python
+def hello():
+# def - used to indicate function definition 
+# hello() - function name 
+# : colon - represents stay tuned for indentation.
+# anything indentented under colon is part of the function
+```
+20.  Function with Argument
+```python
+def hello(to):
+	print("hello,", to)
+
+# expected function parameter to 
+hello(name)
+# variable name is copied over to 'to'; name = to
+```
+21.  Function Argument with Default Value
+```python 
+def hello(to="world"):
+	print("hello,", to)
+
+# expected function parameter to 
+hello()
+# output to terminal: hello, world
+```
+22.  Main Function Definition 
+```python
+# Allows function to be ordered in any manner either hello before main or main before hello
+def main():
+	name = input("What's your name? ").strip().title()
+	hello(name)
+	
+def hello(to="world"):
+	print(f"hello, {to}")
+
+# Calls the main function
+main()
+# Script does not run unless the function is called 
+```
+23. Function Scope 
+```python
+# Allows function to be ordered in any manner either hello before main or main before hello
+def main():
+	name = input("What's your name? ").strip().title()
+	hello()
+	
+def hello(to="world"):
+	print(f"hello, {name}")
+
+# Calls the main function
+main()
+# Script does not run unless the function is called 
+```
+24. 
 
 ### Video Links
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)

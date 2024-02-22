@@ -2,9 +2,11 @@
 ## Python File List
 
 1. [[hello.py]] - to ask a user for their name
+2. [[calculator.py]] - demonstrating type conversions and mathematical functions
 
+### Learning Achievements
 
-## Learning Achievements
+#### [[hello.py]] section
 
 1. Using Comments
 
@@ -99,9 +101,15 @@ name = name.strip().title()
 first , last = name.split(" ")
 
 ```
-14. 
-15. 
 
+#### [[calculator.py]] section
+14.  Function Nesting 
+```python 
+x = int(input("What's x? "))
+# input returns a string 
+# int takes the return value of input and converts it to an integer
+```
+15. 
 
 ### Video Links
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)

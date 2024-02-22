@@ -5,12 +5,12 @@
       "path": "cs50/week1/README.md"
     },
     {
-      "basename": "CS50P",
-      "path": "CS50P.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "CS50P",
+      "path": "CS50P.md"
     }
   ],
   "omittedPaths": [],

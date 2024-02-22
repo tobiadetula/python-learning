@@ -1,8 +1,7 @@
+"""_summary_
+    Ask a user for their name, 
+    demonstrating the use of input and print functions
 """
-
-Ask a user for their name, demonstrating the use of input and print functions
-
-""" 
  
 # Print a string to Terminal and recieve user input
 name = input("What's your name? ")

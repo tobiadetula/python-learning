@@ -218,5 +218,5 @@ def square(n):
 - [CS50P - Lecture 0 - Functions, Variables](https://www.youtube.com/watch?v=JP7ITIXGpHk&t=842s)
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)
-- 
+
 

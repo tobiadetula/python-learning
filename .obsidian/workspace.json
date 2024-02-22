@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs50/week1/WEEK 1.md",
+                "file": "cs50/zero/zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs50/week1/WEEK 1.md",
+                "file": "cs50/zero/zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs50/week1/WEEK 1.md",
+                "file": "cs50/zero/zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs50/week1/WEEK 1.md"
+                "file": "cs50/zero/zero.md"
               }
             }
           },
@@ -168,14 +168,14 @@
   },
   "active": "b83ab4ca9a07b654",
   "lastOpenFiles": [
-    "cs50/week1/return.py",
+    "cs50/zero/return.py",
     "CS50P.md",
     "README.md",
-    "cs50/week1/WEEK 1.md",
-    "cs50/week1/function.py",
+    "cs50/zero/zero.md",
+    "cs50/zero/function.py",
     "cs50/week1/hellofunction.py",
     "cs50/week1/helloFunction.py",
-    "cs50/week1/calculator.py",
+    "cs50/zero/calculator.py",
     "docs.python.org.md",
     "cs50/venv/bin/activate",
     "cs50/venv/bin/Activate.ps1",

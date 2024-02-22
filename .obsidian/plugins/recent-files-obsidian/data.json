@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "zero",
       "path": "cs50/zero/zero.md"
     },
     {
       "basename": "CS50P",
       "path": "CS50P.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

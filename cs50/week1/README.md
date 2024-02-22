@@ -93,8 +93,14 @@ name.title()
 # Remove Whitespace and Capitalize 
 name = name.strip().title()
 ```
-13. 
+13.  Splitting Strings
+```python
+# Split user's name into first name and last name 
+first , last = name.split(" ")
+
+```
 14. 
+15. 
 
 
 ### Video Links

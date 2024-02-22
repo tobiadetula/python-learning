@@ -2,6 +2,7 @@
     requests for user input as string, the converts to int 
     and performs addition 
 """
+
 # # Integer Definitions Demonstration
 # x = int(input("What's x? "))
 # y = int(input("What's y? "))
@@ -12,10 +13,14 @@ y = float(input("What's y? "))
 
 # Variable addition 
 # z = int(x) + int(y) // Alternate version
-z = round(x + y,2) 
+# z = round(x / y, 2)  
+z = x / y 
 
 # Printing output to terminal 
 # print(z) - Outputs sum of x and y, Ex: 20 + 980 = 1000
 
 # Outputs sum of x and y, Ex: 20 + 980 = 1,000 with seperator
-print(f"{z:,}")
+# print(f"{z:,}")
+
+# Outputs z with float values rounded to 2 decimal places, alternate of round function()
+print(f"{z:.2f}")

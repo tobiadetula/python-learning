@@ -206,7 +206,6 @@ def square(n):
 # return the square of the n value
 
 def square(n):
-
 	return n * n
 	# Alternate square of a number definition
 	return n ** 2

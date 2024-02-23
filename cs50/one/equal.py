@@ -1,6 +1,6 @@
 """
     _summary_
-    compare two user variables using or, and, &  not
+    compare two user variables using or, and, &  not equal to
     
 """
 
@@ -10,7 +10,7 @@ x = int(input("What's x? "))
 y = int(input("What's y? "))
 
 # compares whether x is less than y OR greater than y
-if x < y or x > y:
+if x != y:
     print("x is not equal to y")    
     
 # will only be run if x is not equal y 

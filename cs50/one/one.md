@@ -5,6 +5,8 @@
 1. [compare.py](cs50/one/compare.py)
 2. [equal.py](cs50/one/equal.py)
 3. [grade.py](cs50/one/grade.py)
+4. [parity.py](cs50/one/parity.py)
+5. 
 
 ### Learning Achievements
 
@@ -153,6 +155,46 @@ else:
 ```
 
 `elif` is necessary to make the `if` statements mutually exclusive. Otherwise in this implementation all conditional will evaluate as `True` 
+
+#### [parity.py](cs50/one/parity.py) section
+
+10.  Using module to determine whether a number is odd or even
+```python 
+
+x = int(input("What's x? "))
+
+# if the number is even it's remainder when divided by 2 will be zero
+if x % 2 == 0:
+    print("Even")
+# if the number is odd it's remainder when divided by 2 will not be equal to zero
+else: 
+    print("Odd")
+
+```
+
+11.  Boolean Return Types
+
+The #variable type bool evaluates to either True or False.
+
+```python 
+
+def is_even(n):
+    if n % 2 == 0:
+        return True
+    else: 
+        return False
+
+```
+
+12. Pythonic Return 
+
+When something is #pythonic ; it means thats how it usually done in python.
+```python
+
+def is_even(n):
+    return True if n % 2 == 0 else False
+
+```
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

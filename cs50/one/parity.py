@@ -15,9 +15,13 @@ def main():
         print("Odd")
 
 def is_even(n):
-    return True if n % 2 == 0 else False
+    return n % 2 == 0 
 
     # Alternate representation 
+    # return True if n % 2 == 0 else False
+
+    # OR
+
     # if n % 2 == 0:
     #     return True
     # else: 

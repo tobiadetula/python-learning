@@ -189,12 +189,65 @@ def is_even(n):
 12. Pythonic Return 
 
 When something is #pythonic ; it means thats how it usually done in python.
+
 ```python
 
 def is_even(n):
     return True if n % 2 == 0 else False
+    
+# OR
+
+def is_even(n):
+    return n % 2 == 0 
 
 ```
+
+The second statement works because the `return` evaluates the expression to `True` or `False`
+
+#### [house.py](cs50/one/house.py) section
+
+13 Match Statement 
+
+It's similar to `switch` in `Objective C` 
+
+```python
+name = input("What's your name? ").strip().lower()
+
+if name == "harry":
+    print("Gryffindor")
+    
+elif name == "hermione":
+    print ("Gryffindor")
+    
+elif name == "ron":
+    print ("Gryffindor")
+    
+elif name == "draco":
+    print ("Slytherin")
+    
+else:
+    print ("Who?")
+# Same as 
+
+match name:
+    case "harry":
+         print("Gryffindor")
+    case "hermione":
+         print("Gryffindor")
+    case "ron":
+         print("Gryffindor")
+    case "draco":
+        print ("Slytherin")
+    case _: # Default case statement 
+        print ("Who?")
+                
+
+
+```
+
+
+
+
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

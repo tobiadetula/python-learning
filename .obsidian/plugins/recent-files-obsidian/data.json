@@ -5,12 +5,16 @@
       "path": "cs50/one/one.md"
     },
     {
-      "basename": "conditionals",
-      "path": "concepts/conditionals.md"
-    },
-    {
       "basename": "variables",
       "path": "concepts/variables.md"
+    },
+    {
+      "basename": "operators",
+      "path": "concepts/operators.md"
+    },
+    {
+      "basename": "conditionals",
+      "path": "concepts/conditionals.md"
     },
     {
       "basename": "zero",

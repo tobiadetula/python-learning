@@ -5,15 +5,9 @@
 
 name = input("What's your name? ").strip().lower()
 
-if name == "harry":
+if name == "harry" or name == "hermione" or  name == "ron" :
     print("Gryffindor")
-    
-elif name == "hermione":
-    print ("Gryffindor")
-    
-elif name == "ron":
-    print ("Gryffindor")
-    
+        
 elif name == "draco":
     print ("Slytherin")
     

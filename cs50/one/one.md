@@ -3,6 +3,8 @@
 ## Python File List
 
 1. [compare.py](cs50/one/compare.py)
+2. [equal.py](cs50/one/equal.py)
+3. [grade.py](cs50/one/grade.py)
 
 ### Learning Achievements
 
@@ -71,7 +73,8 @@ if x < y or x > y:
 else:
     print("x is equal to y")
 ```
-4. Using `!=` statement:
+
+5. Using `!=` statement:
    
    ```python
 # compares whether x is not equal to  y
@@ -83,7 +86,7 @@ else:
     print("x is equal to y")
 ```
 
-4. Using `==` statement:
+6. Using `==` statement:
    
    ```python
 # statement in reverse
@@ -96,7 +99,27 @@ else:
     print("x is not equal to y")
 ```
 
+#### [grade.py](cs50/one/grade.py) section
 
+7. Using `>=` and `<=` statement:
+   
+   ```python
+score = int(input("Score: "))
+
+# Grade comparison calculation
+if score >= 90 and score <= 100:
+    print("Grade: A")
+elif score >= 80 and score <= 90:
+    print("Grade: B")
+elif score >= 70 and score <= 80:
+    print("Grade: C")
+elif score >= 60 and score <= 70:
+    print("Grade: D")
+else:
+    print("Grade: F")
+```
+
+7. Combining Comparison Statements
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

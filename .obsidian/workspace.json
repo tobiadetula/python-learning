@@ -169,6 +169,7 @@
   },
   "active": "b83ab4ca9a07b654",
   "lastOpenFiles": [
+    "cs50/one/grade.py",
     "cs50/one/equal.py",
     "cs50/one/equalornot.py",
     "concepts/conditionals.md",
@@ -189,7 +190,6 @@
     "cs50/zero/return.py",
     "cs50/zero/function.py",
     "cs50/week1/hellofunction.py",
-    "cs50/week1/helloFunction.py",
     "docs.python.org.md",
     "cs50/week1/Code Documentation.md"
   ]

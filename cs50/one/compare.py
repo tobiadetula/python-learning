@@ -12,9 +12,11 @@ y = int(input("What's y? "))
 #  comparing the value of x and y
 if x > y :
     print(f"x is greater than y")
-    
-if x < y:
+
+# will only be run if x is not greater than y
+elif x < y:
     print(f"x is less than y")
- 
-if x == y:
+    
+# will only be run if x is not less than y 
+elif x == y:
     print("x is equal to y")

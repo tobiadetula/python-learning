@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FiFolder"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -20,5 +22,6 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  }
+  },
+  "cs50/one": "FiFolder"
 }

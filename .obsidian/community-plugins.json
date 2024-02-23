@@ -15,5 +15,9 @@
   "nldates-obsidian",
   "better-word-count",
   "periodic-notes",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-outliner",
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export"
 ]

@@ -14,4 +14,4 @@ Conditional statements are abilities to ask questions in code. They allow you to
 
 2. Keywords 
 	1.  `if` statement
-	2. 
+	2.  `elif` statement - combination of `else` and `if`

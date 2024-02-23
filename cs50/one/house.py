@@ -1,6 +1,8 @@
 """
     _summary_
-    Using the match  
+    Using the match function to 
+    select between different options 
+    
 """
 
 name = input("What's your name? ").strip().lower()

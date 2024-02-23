@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "three",
+      "path": "cs50/three/three.md"
+    },
+    {
       "basename": "one",
       "path": "cs50/one/one.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "four",
       "path": "cs50/four/four.md"
-    },
-    {
-      "basename": "three",
-      "path": "cs50/three/three.md"
     },
     {
       "basename": "CS50P",

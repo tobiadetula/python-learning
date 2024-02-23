@@ -23,5 +23,7 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "cs50/one": "FiFolder"
+  "cs50/one": "FiFolder",
+  "cs50/four": "FiFolder",
+  "cs50/three": "FiFolder"
 }

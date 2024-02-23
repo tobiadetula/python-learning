@@ -227,6 +227,7 @@ elif name == "draco":
     
 else:
     print ("Who?")
+    
 # Same as 
 
 match name:
@@ -245,9 +246,34 @@ match name:
 
 ```
 
+Cleaner Implementation 
 
+```python 
 
+name = input("What's your name? ").strip().lower()
 
+ if name == "harry" or name == "hermione" or  name == "ron" :
+     print("Gryffindor")
+        
+ elif name == "draco":
+     print ("Slytherin")
+    
+ else:
+     print ("Who?")
+
+# OR
+
+match name:
+    case "harry" | "hermione" | "ron":
+         print("Gryffindor")
+    case "draco":
+        print ("Slytherin")
+    case _:
+        print ("Who?")
+                
+```
+
+A `break` statement is not necessary like in `C` 
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

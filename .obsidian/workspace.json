@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#week3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,14 +166,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "60d5c4bfc6293a7f",
+  "active": "b83ab4ca9a07b654",
   "lastOpenFiles": [
-    "cs50/Untitled.md",
+    "concepts/conditionals.md",
     "cs50/one/one.md",
-    "cs50/four/four.md",
+    "concepts/variables.md",
     "cs50/zero/zero.md",
-    "concepts/Conditionals.md",
-    "concepts/Variables.md",
+    "cs50/one/compare.py",
+    "cs50/Untitled.md",
+    "cs50/four/four.md",
     "concepts",
     "cs50/three/three.md",
     "CS50P.md",
@@ -189,7 +189,6 @@
     "cs50/week1/helloFunction.py",
     "cs50/zero/calculator.py",
     "docs.python.org.md",
-    "cs50/venv/bin/activate",
     "cs50/week1/Code Documentation.md"
   ]
 }

@@ -5,20 +5,20 @@
       "path": "cs50/one/one.md"
     },
     {
-      "basename": "four",
-      "path": "cs50/four/four.md"
+      "basename": "conditionals",
+      "path": "concepts/conditionals.md"
+    },
+    {
+      "basename": "variables",
+      "path": "concepts/variables.md"
     },
     {
       "basename": "zero",
       "path": "cs50/zero/zero.md"
     },
     {
-      "basename": "Conditionals",
-      "path": "concepts/Conditionals.md"
-    },
-    {
-      "basename": "Variables",
-      "path": "concepts/Variables.md"
+      "basename": "four",
+      "path": "cs50/four/four.md"
     },
     {
       "basename": "three",

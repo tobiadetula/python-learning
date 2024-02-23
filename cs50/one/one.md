@@ -119,7 +119,20 @@ else:
     print("Grade: F")
 ```
 
-7. Combining Comparison Statements
+8. Combining Comparison Statements
+
+```python 
+# Grade comparison calculation
+if score >= 90 and score <= 100:
+    print("Grade: A")
+
+# Alternate means of writing 
+if 90 <= score and score <= 100:
+    print("Grade: A")
+# OR
+if 90 <= score <= 100:
+    print("Grade: A") 
+```
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

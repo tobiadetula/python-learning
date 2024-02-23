@@ -133,6 +133,26 @@ if 90 <= score and score <= 100:
 if 90 <= score <= 100:
     print("Grade: A") 
 ```
+
+9. Reducing Comparison Statement Range
+   
+ ```python 
+
+if score >= 90:
+    print("Grade: A")
+elif  score >= 80:
+    print("Grade: B")
+elif  score >= 70:
+    print("Grade: C")
+elif  score >= 60:
+    print("Grade: D")
+else:
+    print("Grade: F")
+
+
+```
+
+`elif` is necessary to make the `if` statements mutually exclusive. Otherwise in this implementation all conditional will evaluate as `True` 
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

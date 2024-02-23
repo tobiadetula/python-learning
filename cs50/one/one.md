@@ -56,7 +56,24 @@ else:
     print("x is equal to y")
 ```
 
-Reduces the number of question asked to just 2/
+Reduces the number of question asked to just 2.
+
+#### [equal.py](cs50/one/equal.py) section
+
+4. Using `or` statement:
+   
+   ```python
+# compares whether x is less than y OR greater than y
+if x < y or x > y:
+    print("x is not equal to y")    
+    
+# will only be run if x is not equal y 
+else:
+    print("x is equal to y")
+```
+
+
+
 ### Relevant Links
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

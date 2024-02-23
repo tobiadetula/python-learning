@@ -1,6 +1,6 @@
 """
     _summary_
-    compare two user variables 
+    compare two user variables using if, elif and else
     
 """
 
@@ -18,5 +18,5 @@ elif x < y:
     print(f"x is less than y")
     
 # will only be run if x is not less than y 
-elif x == y:
+else:
     print("x is equal to y")

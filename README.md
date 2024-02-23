@@ -3,7 +3,8 @@ Documenting my progress on learning the python language
 
 ### Learning Record
 - [ ] [[zero]]
-- [ ] [[WEEK 2]]
+- [ ] [[three]]
+- [ ] [[four]]
 
 
 

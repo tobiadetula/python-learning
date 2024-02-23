@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "one",
+      "path": "cs50/one/one.md"
+    },
+    {
+      "basename": "four",
+      "path": "cs50/four/four.md"
     },
     {
       "basename": "zero",
       "path": "cs50/zero/zero.md"
     },
     {
+      "basename": "Conditionals",
+      "path": "concepts/Conditionals.md"
+    },
+    {
+      "basename": "Variables",
+      "path": "concepts/Variables.md"
+    },
+    {
+      "basename": "three",
+      "path": "cs50/three/three.md"
+    },
+    {
       "basename": "CS50P",
       "path": "CS50P.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],

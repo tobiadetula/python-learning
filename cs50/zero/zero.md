@@ -1,4 +1,5 @@
-#week1 #python #cs50p
+#week0 #python #cs50p #functions #variables
+# Functions & Variables
 ## Python File List
 
 1. [[hello.py]] - to ask a user for their name

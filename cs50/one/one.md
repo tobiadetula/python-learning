@@ -6,7 +6,6 @@
 2. [equal.py](cs50/one/equal.py)
 3. [grade.py](cs50/one/grade.py)
 4. [parity.py](cs50/one/parity.py)
-5. 
 
 ### Learning Achievements
 
@@ -274,6 +273,8 @@ match name:
 ```
 
 A `break` statement is not necessary like in `C` 
+
 ### Relevant Links
+
 - [Python Docs](https://docs.python.org)
 - [Builtin String Type Modifiers](https://docs.python.org/3/library/stdtypes.html#string-methods)

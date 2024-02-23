@@ -12,3 +12,5 @@
 %  # modulo
 
 ```
+
+Examples of Implementation can be seen in [[one]] 

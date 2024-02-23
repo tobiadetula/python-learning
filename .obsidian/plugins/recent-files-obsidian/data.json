@@ -9,32 +9,36 @@
       "path": "cs50/one/one.md"
     },
     {
-      "basename": "variables",
-      "path": "concepts/variables.md"
-    },
-    {
-      "basename": "operators",
-      "path": "concepts/operators.md"
+      "basename": "errors",
+      "path": "concepts/errors.md"
     },
     {
       "basename": "conditionals",
       "path": "concepts/conditionals.md"
     },
     {
-      "basename": "zero",
-      "path": "cs50/zero/zero.md"
+      "basename": "operators",
+      "path": "concepts/operators.md"
+    },
+    {
+      "basename": "variables",
+      "path": "concepts/variables.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "four",
       "path": "cs50/four/four.md"
     },
     {
-      "basename": "CS50P",
-      "path": "CS50P.md"
+      "basename": "zero",
+      "path": "cs50/zero/zero.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "CS50P",
+      "path": "CS50P.md"
     }
   ],
   "omittedPaths": [],

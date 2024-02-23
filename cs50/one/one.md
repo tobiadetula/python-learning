@@ -83,6 +83,18 @@ else:
     print("x is equal to y")
 ```
 
+4. Using `==` statement:
+   
+   ```python
+# statement in reverse
+# compares whether x is equal to  y
+if x == y:
+    print("x is equal to y")    
+    
+# will only be run if x is not equal y 
+else:
+    print("x is not equal to y")
+```
 
 
 ### Relevant Links
